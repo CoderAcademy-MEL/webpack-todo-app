@@ -1,0 +1,16 @@
+{
+  "name": "webpack-todo-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "watch": "webpack --progress --watch"
+  },
+  "devDependencies": {
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
+  },
+  "dependencies": {
+    "moment": "^2.26.0"
+  }
+}
